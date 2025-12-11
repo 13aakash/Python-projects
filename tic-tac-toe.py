@@ -2,6 +2,7 @@
 """
 Simple text-based 2-player Tic Tac Toe.
 Player 1 is 'X', Player 2 is 'O'.
+
 Enter positions 1-9 as shown on the board:
  1 | 2 | 3
 ---+---+---
